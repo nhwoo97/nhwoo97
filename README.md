@@ -30,9 +30,12 @@
 <br />
 <br />
 
-### Github Stonks
+<details>
+    <summary>:zap: GitHub Stonks</summary>
 
   <img align="left" alt="Nam's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nhwoo97&show_icons=true&theme=radical&hide_border=true" />
+
+</details>
 
 [website]: https://www.google.com/
 [course]: https://lambdaschool.com/
