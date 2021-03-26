@@ -3,9 +3,9 @@
 ## I'm a developer based in LA that has a thirst for knowledge!!
 
 - 🔭 I just finished a coding bootcamp at: [Lambda School][course]!
-- 🌱 I’m open for freelancing or work around LA 🌱
+- 🌱 I’m open for freelancing or work 🌱
 - 👯 I’m looking to learn more about Javascript and Python 📚
-- 🥅 2020 Goals: Code more personal projects! 💪
+- 🥅 2021 Goals: Code more personal projects! 💪
 - ⚡ Fun fact: I love learning new things, especially about history, science and cultures
 
 ### Spotify Playing 🎧
