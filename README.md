@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Nam's website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Nam | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Nam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -32,8 +32,9 @@
 
 ### Github Stonks
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nhwoo97&show_icons=true&theme=radical&hide_border=true" />
-
+  <img align="left" alt="Nam's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nhwoo97&show_icons=true&theme=radical&hide_border=true" />
+  <img align="left" alt="Nam's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api/pin?username=nhwoo97&repo=github-readme-stats" />
+    
 [website]: https://www.google.com/
 [course]: https://lambdaschool.com/
 [twitter]: https://twitter.com/angryredluigi
