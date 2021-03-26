@@ -32,7 +32,7 @@
 
 ### Github Stonks
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nhwoo97&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nhwoo97&show_icons=true&theme=radical&hide_border=true" />
 
 [website]: https://www.google.com/
 [course]: https://lambdaschool.com/
