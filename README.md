@@ -33,7 +33,7 @@
 ### Github Stonks
 
   <img align="left" alt="Nam's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nhwoo97&show_icons=true&theme=radical&hide_border=true" />
-  <img align="left" alt="Nam's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api/pin?username=nhwoo97&repo=github-readme-stats" />
+  <img align="left" alt="Nam's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api/pin?username=nhwoo97&repo=github-readme-stats (https://github.com/nhwoo97/github-readme-stats)" />
     
 [website]: https://www.google.com/
 [course]: https://lambdaschool.com/
