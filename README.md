@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-kv8i28mm1-nhwoo97.vercel.app" alt="Nam's Spotify Playing" width="350" />](https://open.spotify.com/user/f9c3b0f7a6e042bcb124b06d48c63651)
+[<img src="https://novatorem-kv8i28mm1-nhwoo97.vercel.app/api/spotify" alt="Nam's Spotify Playing" width="350" />](https://open.spotify.com/user/f9c3b0f7a6e042bcb124b06d48c63651)
 
 ### Connect with me:
 
