@@ -8,6 +8,10 @@
 - 🥅 2020 Goals: Code more personal projects! 💪
 - ⚡ Fun fact: I love learning new things, especially about history, science and cultures
 
+### Spotify Playing 🎧
+
+[<img src="https://novatorem-q83luukek-nhwoo97.vercel.app/api/spotify-playing" alt="Nam's Spotify Playing" width="350" />](https://open.spotify.com/user/f9c3b0f7a6e042bcb124b06d48c63651)
+
 ### Connect with me:
 
 [<img align="left" alt="Nam's website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
