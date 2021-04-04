@@ -46,4 +46,4 @@
 [course]: https://lambdaschool.com/
 [twitter]: https://twitter.com/angryredluigi
 [linkedin]: https://www.linkedin.com/in/namhyuk-woo/
-[webdevplaylist]: https://www.google.com/
+[webdevplaylist]: https://www.popeyes.com/
