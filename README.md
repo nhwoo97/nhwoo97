@@ -38,7 +38,7 @@
 <details>
     <summary>:zap: GitHub Stonks</summary>
 
-<!--   <img align="left" alt="Nam's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nhwoo97&show_icons=true&theme=radical&hide_border=true" /> -->
+  <img align="left" alt="Nam's GitHub Stats" src=https://github-readme-stats.vercel.app/api?username=nhwoo97)](https://github.com/anuraghazra/github-readme-stats />
 
 </details>
 
