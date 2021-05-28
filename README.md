@@ -35,12 +35,12 @@
 <br />
 <br />
 
-<details>
+<!-- <details>
     <summary>:zap: GitHub Stonks</summary>
 
   <img align="left" alt="Nam's GitHub Stats" src= "https://github-readme-stats.vercel.app/api?username=nhwoo97)](https://github.com/anuraghazra/github-readme-stats"/>
 
-</details>
+</details> -->
 
 [website]: https://www.google.com/
 [course]: https://lambdaschool.com/
