@@ -1,6 +1,6 @@
 ## Hello 👋 I'm Nam
 
-## I'm a developer based in LA with a thirst for knowledge!!
+## I'm a developer based in LA with a thirst for knowledge!!!
 
 - 🔭 I just finished a coding bootcamp at: [Lambda School][course]!
 - 🌱 I’m open for freelancing or work 🌱
