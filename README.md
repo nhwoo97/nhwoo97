@@ -42,6 +42,10 @@
 
 </details> -->
 
+<details>
+    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nhwoo97&show_icons=true&theme=gotham" alt="mitul3737" />
+</details>
+
 [website]: https://www.google.com/
 [course]: https://lambdaschool.com/
 [twitter]: https://twitter.com/angryredluigi
