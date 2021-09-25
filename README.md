@@ -53,7 +53,7 @@
 <!--..-->
 
   
- ![Mitul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mitul3737&theme=xcode)
+ ![Mitul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nhwoo97&theme=xcode)
 
 [website]: https://www.google.com/
 [course]: https://lambdaschool.com/
