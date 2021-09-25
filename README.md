@@ -50,7 +50,7 @@
 <!--..-->
 
   
- ![Mitul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nhwoo97&theme=xcode)
+ ![Nam's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nhwoo97&theme=xcode)
 
 
 
