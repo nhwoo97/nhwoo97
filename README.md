@@ -44,6 +44,10 @@
 
 <details>
     <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nhwoo97&show_icons=true&theme=gotham" alt="mitul3737" />
+    <!--..-->
+
+  
+ ![Nam's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nhwoo97&theme=xcode)
 </details>
 
 <!--..-->
