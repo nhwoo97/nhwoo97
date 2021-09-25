@@ -45,9 +45,18 @@
 <details>
     <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nhwoo97&show_icons=true&theme=gotham" alt="mitul3737" />
 </details>
-    ### Coding Stats
-<!--..-->  
- ![Mitul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nhwoo97&theme=xcode)
+### Coding Stats
+<!--START_SECTION:waka-->
+```text
+Python   6 hrs 51 mins   █████████████████████████   100.00 % 
+```
+<!--END_SECTION:waka-->
+
+
+<!--..-->
+
+  
+ ![Mitul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mitul3737&theme=xcode)
 
 
 
