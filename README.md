@@ -50,10 +50,6 @@
  ![Nam's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nhwoo97&theme=xcode)
 </details>
 
-<!--..-->
-
-  
- ![Nam's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nhwoo97&theme=xcode)
 
 
 
