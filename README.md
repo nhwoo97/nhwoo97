@@ -16,6 +16,7 @@
 
 [<img align="left" alt="Nam's website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Nam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" src=https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif/>]
 
 <br />
 
@@ -49,7 +50,7 @@
  ![Nam's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nhwoo97&theme=xcode)
 </details>
 
-[<img align="left" src=https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif/>]
+
 
 
 [website]: https://www.google.com/
