@@ -49,7 +49,7 @@
  ![Nam's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nhwoo97&theme=xcode)
 </details>
 
-
+<img align="left" src= [rickroll]/>
 
 
 [website]: https://www.google.com/
@@ -57,3 +57,4 @@
 [twitter]: https://twitter.com/angryredluigi
 [linkedin]: https://www.linkedin.com/in/namhyuk-woo/
 [webdevplaylist]: https://www.popeyes.com/
+[rickroll]: https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif
