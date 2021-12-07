@@ -7,6 +7,7 @@
 - 👯 I’m looking to learn more about Javascript and Python 📚
 - 🥅 2021 Goals: Code more personal projects! 💪
 - ⚡ Fun fact: I love learning new things, especially about history, science and cultures
+- Bucket List: Ceramics, Motorcycles, travelling to Europe
 
 ### Spotify Playing 🎧
 
