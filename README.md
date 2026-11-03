@@ -1,7 +1,6 @@
 ## Hello 👋 I'm Nam
 
 
-- 👯 I’m furthering my education by taking CS + Electrical Engineering classes 📚
 - ⚡ Fun fact: I love learning new things, especially about history, science and cultures
 
 ### Spotify Playing 🎧
